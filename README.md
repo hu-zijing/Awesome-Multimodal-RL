@@ -196,3 +196,111 @@ This repository collects research papers on **reinforcement learning in generati
 * [2312] [RLHF-V] [RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/abs/2312.00849)
 
 ### Diffusion-based RL
+
+* [2507] [MixGRPO] [MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE](http://arxiv.org/abs/2507.21802)
+
+* [2507] [LLaVA-Reward] [Multimodal LLMs as Customized Reward Models for Text-to-Image Generation](https://arxiv.org/abs/2507.21391)
+
+* [2506] [DreamCS] [DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision](http://arxiv.org/abs/2506.09814)
+
+* [2506] [RDPO] [RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](https://arxiv.org/abs/2506.18655)
+
+* [2505] [Flow-GRPO] [Flow-GRPO: Training Flow Matching Models via Online RL](https://arxiv.org/abs/2505.05470)
+
+* [2505] [Diffusion-NPO] [Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models](https://arxiv.org/abs/2505.11245)
+
+* [2505] [DanceGRPO] [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/abs/2505.07818)
+
+* [2505] [InfLVG] [InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO](https://arxiv.org/abs/2505.17574)
+
+* [2505] [D-Fusion] [D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples](http://arxiv.org/abs/2505.22002)
+
+* [2505] [RePrompt] [RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning](http://arxiv.org/abs/2505.17540)
+
+* [2505] [Self-Reward] [Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation](http://arxiv.org/abs/2505.16763)
+
+* [2504] [GAPO] [Aligning Anime Video Generation with Human Feedback](https://arxiv.org/abs/2504.10044)
+
+* [2503] [B$^2$-DiffuRL] [Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards](http://arxiv.org/abs/2503.11240)
+
+* [2503] [LOOP] [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/abs/2503.00897)
+
+* [2503] [InPO] [InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment](http://arxiv.org/abs/2503.18454)
+
+* [2503] [GRADEO] [GRADEO: Towards Human-Like Evaluation for Text-to-Video Generation via Multi-Step Reasoning](http://arxiv.org/abs/2503.02341)
+
+* [2502] [Continuous Time RL] [Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning](https://arxiv.org/abs/2502.01819)
+
+* [2502] [DreamDPO] [DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization](http://arxiv.org/abs/2502.04370)
+
+* [2502] [CaPO] [Calibrated Multi-Preference Optimization for Aligning Diffusion Models](http://arxiv.org/abs/2502.02588)
+
+* [2501] [Flow-DPO] [Improving Video Generation with Human Feedback](https://arxiv.org/abs/2501.13918)
+
+* [2501] [PPD] [Personalized Preference Fine-tuning of Diffusion Models](http://arxiv.org/abs/2501.06655)
+
+* [2412] [DiffPPO] [DiffPPO: Reinforcement Learning Fine-Tuning of Diffusion Models for Text-to-Image Generation](https://ieeexplore.ieee.org/document/10987802)
+
+* [2412] [VideoDPO] [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](http://arxiv.org/abs/2412.14167)
+
+* [2412] [MVReward] [MVReward: Better Aligning and Evaluating Multi-View Diffusion Models with Human Preferences](https://arxiv.org/abs/2412.06614)
+
+* [2412] [TPDM] [Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation](http://arxiv.org/abs/2412.01243)
+
+* [2410] [SSPO] [Bridging SFT and DPO for Diffusion Model Alignment with Self-Sampling Preference Optimization](https://arxiv.org/abs/2410.05255)
+
+* [2410] [PrefPaint] [PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference](http://arxiv.org/abs/2410.21966)
+
+* [2409] [VideoRM] [Boosting Text-to-Video Generative Model with MLLMs Feedback](https://openreview.net/forum?id=3ivnixHy16)
+
+* [2407] [RPO] [Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning](https://arxiv.org/abs/2407.12164)
+
+* [2407] [DPG] [Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning](https://arxiv.org/abs/2407.06642)
+
+* [2406] [Diversity Reward] [Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning](https://ieeexplore.ieee.org/document/10656815)
+
+* [2406] [VideoScore] [VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](http://arxiv.org/abs/2406.15252)
+
+* [2406] [Diffusion-RPO] [Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization](http://arxiv.org/abs/2406.06382)
+
+* [2406] [SPO] [Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization](http://arxiv.org/abs/2406.04314)
+
+* [2405] [Curriculum DPO] [Curriculum Direct Preference Optimization for Diffusion and Consistency Models](http://arxiv.org/abs/2405.13637)
+
+* [2405] [DNO] [Inference-Time Alignment of Diffusion Models with Direct Noise Optimization](https://arxiv.org/abs/2405.18881)
+
+* [2404] [RLCM] [RL for Consistency Models: Faster Reward Guided Text-to-Image Generation](https://arxiv.org/abs/2404.03673)
+
+* [2404] [Diffusion-KTO] [Aligning Diffusion Models by Optimizing Human Utility](http://arxiv.org/abs/2404.04465)
+
+* [2404] [PAE] [Dynamic Prompt Optimizing for Text-to-Image Generation](http://arxiv.org/abs/2404.04095)
+
+* [2403] [DreamReward] [DreamReward: Text-to-3D Generation with Human Preference](http://arxiv.org/abs/2403.14613)
+
+* [2402] [TDPO-R] [Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases](http://arxiv.org/abs/2402.08552)
+
+* [2402] [DenseReward] [A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](http://arxiv.org/abs/2402.08265)
+
+* [2401] [Parrot] [Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](http://arxiv.org/abs/2401.05675)
+
+* [2312] [InstructVideo] [InstructVideo: Instructing Video Diffusion Models with Human Feedback](http://arxiv.org/abs/2312.12490)
+
+* [2311] [D3PO] [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/abs/2311.13231)
+
+* [2311] [Diffusion-DPO] [Diffusion Model Alignment Using Direct Preference Optimization](http://arxiv.org/abs/2311.12908)
+
+* [2311] [TextForce] [Enhancing Diffusion Models with Text-Encoder Reinforcement Learning](http://arxiv.org/abs/2311.15657)
+
+* [2309] [DRaFT] [Directly Fine-Tuning Diffusion Models on Differentiable Rewards](http://arxiv.org/abs/2309.17400)
+
+* [2305] [DDPO] [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
+
+* [2305] [DPOK] [DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models](https://arxiv.org/abs/2305.16381)
+
+* [2304] [ImageReward] [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](http://arxiv.org/abs/2304.05977)
+
+* [2304] [RAFT] [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](http://arxiv.org/abs/2304.06767)
+
+* [2302] [Reward-weighted Method] [Aligning Text-to-Image Models using Human Feedback](https://arxiv.org/abs/2302.12192)
+
+* [2212] [Promptist] [Optimizing Prompts for Text-to-Image Generation](http://arxiv.org/abs/2212.09611)
