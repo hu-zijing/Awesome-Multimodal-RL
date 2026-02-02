@@ -1,5 +1,9 @@
 # Reinforcement Learning in Generative Multimodal AI
 
+<div align="center">
+  <img src="assets/image.png" width="450">
+</div>
+
 ## Introduction
 
 Generative multimodal artificial intelligence (AI) has achieved remarkable progress in recent years, driven by large-scale pre-training and the emergence of powerful foundation models. While these models have demonstrated strong capabilities in perception, reasoning, and content synthesis, their training is predominantly based on supervised objectives, which are often insufficient to capture task-specific goals and user intent. Reinforcement learning (RL) has therefore emerged as a critical training framework for improving generative multimodal models. 
