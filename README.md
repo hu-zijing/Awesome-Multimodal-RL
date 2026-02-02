@@ -13,6 +13,20 @@ This repository collects research papers on **reinforcement learning in generati
 
 ### Autoregression-based RL
 
+* [2512] [EMA-GRPO] [OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043)
+
+* [2510] [PIVOT] [RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)
+
+* [2510] [RewardMap] [RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning](https://arxiv.org/abs/2510.02240)
+
+* [2509] [STAGE] [STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation](https://arxiv.org/abs/2509.25027)
+
+* [2509] [GCPO] [Group Critical-token Policy Optimization for Autoregressive Image Generation](https://arxiv.org/abs/2509.22485)
+
+* [2508] [DGRPO] [Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](https://arxiv.org/abs/2508.04416)
+
+* [2508] [AR-GRPO] [AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning](https://arxiv.org/abs/2508.06924)
+
 * [2507] [X-Omni] [X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again](https://arxiv.org/abs/2507.22058)
 
 * [2507] [3D-R1] [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478)
@@ -197,6 +211,33 @@ This repository collects research papers on **reinforcement learning in generati
 
 ### Diffusion-based RL
 
+* [2512] [GARDO] [GARDO: Reinforcing Diffusion Models without Reward Hacking](https://arxiv.org/abs/2510.24138)
+
+* [2510] [Identity-GRPO] [Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning](https://arxiv.org/abs/2510.14256)
+
+* [2510] [DGPO] [Reinforcing Diffusion Models by Direct Group Preference Optimization](https://arxiv.org/abs/2510.08425)
+
+* [2510] [Smart-GRPO] [Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models](https://arxiv.org/abs/2510.02654)
+
+* [2510] [G<sup>2</sup>RPO] [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](https://arxiv.org/abs/2510.01982)
+
+* [2509] [Dynamic-TreeRPO] [Dynamic-TreeRPO: Breaking the Independent Trajectory Bottleneck with Structured Sampling](https://arxiv.org/abs/2509.23352)
+
+* [2509] [BruPA/FluPA] [Follow-Your-Preference: Towards Preference-Aligned Image Inpainting](https://arxiv.org/abs/2509.23082)
+
+* [2509] [DiffusionNFT] [DiffusionNFT: Online Diffusion Reinforcement with Forward Process](https://arxiv.org/abs/2509.16117)
+
+* [2509] [PCPO] [PCPO: Proportionate Credit Policy Optimization for Aligning Image Generation Models](https://arxiv.org/abs/2509.25774)
+
+* [2509] [CPS] [Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching
+](https://arxiv.org/abs/2509.05952)
+
+* [2509] [BranchGRPO] [BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models](https://arxiv.org/abs/2509.06040)
+
+* [2508] [Pref-GRPO] [Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning](https://arxiv.org/abs/2508.20751)
+
+* [2508] [TempFlow-GRPO] [TempFlow-GRPO: When Timing Matters for GRPO in Flow Models](https://arxiv.org/abs/2508.04324)
+
 * [2507] [MixGRPO] [MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE](http://arxiv.org/abs/2507.21802)
 
 * [2507] [LLaVA-Reward] [Multimodal LLMs as Customized Reward Models for Text-to-Image Generation](https://arxiv.org/abs/2507.21391)
@@ -206,6 +247,8 @@ This repository collects research papers on **reinforcement learning in generati
 * [2506] [RDPO] [RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](https://arxiv.org/abs/2506.18655)
 
 * [2505] [Flow-GRPO] [Flow-GRPO: Training Flow Matching Models via Online RL](https://arxiv.org/abs/2505.05470)
+
+* [2505] [SmPO-Diffusion] [Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences](https://arxiv.org/abs/2506.02698)
 
 * [2505] [Diffusion-NPO] [Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models](https://arxiv.org/abs/2505.11245)
 
@@ -221,7 +264,7 @@ This repository collects research papers on **reinforcement learning in generati
 
 * [2504] [GAPO] [Aligning Anime Video Generation with Human Feedback](https://arxiv.org/abs/2504.10044)
 
-* [2503] [B$^2$-DiffuRL] [Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards](http://arxiv.org/abs/2503.11240)
+* [2503] [B<sup>2</sup>-DiffuRL] [Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards](http://arxiv.org/abs/2503.11240)
 
 * [2503] [LOOP] [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/abs/2503.00897)
 
