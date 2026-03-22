@@ -17,6 +17,8 @@ This repository collects research papers on **reinforcement learning in generati
 
 ### Autoregression-based RL
 
+* [2601] [VAR-RL] [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](https://arxiv.org/abs/2601.02256)
+
 * [2512] [EMA-GRPO] [OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043)
 
 * [2510] [PIVOT] [RL makes MLLMs see better than SFT](https://arxiv.org/abs/2510.16333)
@@ -215,7 +217,21 @@ This repository collects research papers on **reinforcement learning in generati
 
 ### Diffusion-based RL
 
+* [2603] [PhyPrompt] [PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation](https://arxiv.org/abs/2603.03505)
+
+* [2602] [UnifiedReward-Flex] [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.02380)
+
+* [2601] [PhysRVG] [PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models](https://arxiv.org/abs/2601.11087)
+
+* [2601] [Talk2Move] [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356)
+
+* [2601] [DenseGRPO] [DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment](https://arxiv.org/abs/2601.20218)
+
+* [2601] [TAGRPO] [TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment](https://arxiv.org/abs/2601.05729)
+
 * [2512] [GARDO] [GARDO: Reinforcing Diffusion Models without Reward Hacking](https://arxiv.org/abs/2510.24138)
+
+* [2512] [PhyGDPO] [PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation](https://arxiv.org/abs/2512.24551)
 
 * [2510] [Identity-GRPO] [Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning](https://arxiv.org/abs/2510.14256)
 
@@ -229,7 +245,11 @@ This repository collects research papers on **reinforcement learning in generati
 
 * [2509] [BruPA/FluPA] [Follow-Your-Preference: Towards Preference-Aligned Image Inpainting](https://arxiv.org/abs/2509.23082)
 
+* [2509] [EditScore] [EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](https://arxiv.org/abs/2509.23909)
+
 * [2509] [DiffusionNFT] [DiffusionNFT: Online Diffusion Reinforcement with Forward Process](https://arxiv.org/abs/2509.16117)
+
+* [2509] [AWM] [Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models](https://arxiv.org/abs/2509.25050)
 
 * [2509] [PCPO] [PCPO: Proportionate Credit Policy Optimization for Aligning Image Generation Models](https://arxiv.org/abs/2509.25774)
 
