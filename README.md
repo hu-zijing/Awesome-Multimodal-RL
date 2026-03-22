@@ -235,6 +235,8 @@ This repository collects research papers on **reinforcement learning in generati
 
 * [2510] [Identity-GRPO] [Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning](https://arxiv.org/abs/2510.14256)
 
+* [2510] [IPRO] [Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization](https://arxiv.org/abs/2510.14255)
+
 * [2510] [DGPO] [Reinforcing Diffusion Models by Direct Group Preference Optimization](https://arxiv.org/abs/2510.08425)
 
 * [2510] [Smart-GRPO] [Smart-GRPO: Smartly Sampling Noise for Efficient RL of Flow-Matching Models](https://arxiv.org/abs/2510.02654)
