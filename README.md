@@ -217,6 +217,8 @@ This repository collects research papers on **reinforcement learning in generati
 
 ### Diffusion-based RL
 
+* [2610] [MEND] [MEND: RL For Flow Models via Proximal Velocity Matching](https://arxiv.org/abs/2610.05954)
+
 * [2603] [PhyPrompt] [PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation](https://arxiv.org/abs/2603.03505)
 
 * [2602] [UnifiedReward-Flex] [Unified Personalized Reward Model for Vision Generation](https://arxiv.org/abs/2602.02380)
